@@ -44,7 +44,7 @@
         "gulp-uglify": "3.0.0"
     },
      "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "mocha --require babel-core/register --recursive test",
         "int-test": "mocha --require babel-core/register --recursive test"
     }
 }
