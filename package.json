@@ -43,7 +43,5 @@
     "gulp-uglify": "3.0.0"
   },
   "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+
 }
