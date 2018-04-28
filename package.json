@@ -43,7 +43,7 @@
     "gulp-uglify": "3.0.0"
   },
   "scripts": {
-    "test": "echo $NODE_ENV=test"
+    "startbootstrap-creative": "echo $NODE_ENV=startbootstrap-creative"
   },
   "main": "gulpfile.js"
   
