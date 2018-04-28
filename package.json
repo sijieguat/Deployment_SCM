@@ -45,6 +45,6 @@
   "scripts": {
     "test" "echo $NODE_ENV=test"
   },
-  "main": "gulpfile.js",
+  "main": "gulpfile.js"
   
 }
