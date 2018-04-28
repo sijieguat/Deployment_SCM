@@ -42,9 +42,6 @@
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "3.0.0"
   },
-  "scripts": {
-    "startbootstrap-creative": "echo $NODE_ENV=startbootstrap-creative"
-  },
   "main": "gulpfile.js"
   
 }
