@@ -43,7 +43,7 @@
     "gulp-uglify": "3.0.0"
   },
   "main": "gulpfile.js",
-"scripts": {
+  "scripts": {
     "test" "echo \$NODE_ENV=test"
   }
 }
